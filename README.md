@@ -60,10 +60,7 @@ package repetitivestructures;
 
 import java.util.*;
 
-/**
- *
- * @author CC2_1H-10
- */
+
 public class GuessingNumber {
     public static void main (String [] args){
         Scanner sc = new Scanner (System.in);
@@ -141,10 +138,7 @@ package multiarray;
 
 import java.util.Scanner;
 
-/**
- *
- * @author CC2_1H-9
- */
+
 public class NestedIf {
 
     /**
@@ -420,7 +414,7 @@ public class Fibonacci {
        
         display();
         
-        // end of the main method    
+           
     }
     public static int user(){
         Scanner sc = new Scanner(System.in);
@@ -472,15 +466,14 @@ import java.util.Arrays;
   
 public class JavaApplication  
 { 
-    // Recursive function to sort an array using 
-    // insertion sort 
+    
     static void insertionSortRecursive(int arr[], int n) 
     { 
        
         if (n <= 1) 
             return; 
        
-        // Sort first n-1 elements 
+         
         insertionSortRecursive( arr, n-1 ); 
        
      
@@ -496,7 +489,7 @@ public class JavaApplication
         arr[j+1] = last; 
     } 
       
-    // Driver Method 
+   
     public static void main(String[] args) 
     { 
         int arr[] = {12, 11, 13, 5, 6}; 
