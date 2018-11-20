@@ -4,11 +4,15 @@
 
 
 CC2 Projects 
+
 1H , FARRO FREDERICK ANTHONY A.
+
 TITLE: "AREAS"
   
    
 package userinput;
+
+
 
 import java.util.*;
 
@@ -51,8 +55,11 @@ public class Calculator {
 
 
 CC2 Projects 
+
 1H , FARRO FREDERICK ANTHONY A.
+
 TITLE: "CALCULATOR (GUESSING GAME)"
+
 
 
 package repetitivestructures;
@@ -125,9 +132,15 @@ public class GuessingNumber {
     }
 }
 
+
+
 CC2 Projects 
+
 1H , FARRO FREDERICK ANTHONY A.
+
 TITLE: "COURSE" 
+
+
 package multiarray;
              
  package nestedif;
@@ -194,10 +207,13 @@ public class NestedIf {
 
 
 CC2 Projects 
+
 1H , FARRO FREDERICK ANTHONY A.
+
 TITLE: "GUESSING GAME"
   
-  package frederick0000;
+
+package frederick0000;
 import java.util.*;
 
 public class Frederick0000 {
@@ -239,10 +255,13 @@ public class Frederick0000 {
 }
 
 CC2 Projects 
+
 1H , FARRO FREDERICK ANTHONY A.
+
 TITLE: "2D ROWS AND COLUMNS"
   
-  package pkg2d;
+ 
+ package pkg2d;
 import java.util.*;
 
 public class Main {
@@ -279,7 +298,9 @@ public class Main {
 
 
 CC2 Projects 
+
 1H , FARRO FREDERICK ANTHONY A.
+
 TITLE: "1D ODD and EVEN TABLE"
   
   
@@ -330,7 +351,9 @@ import java.util.Scanner;
              
             
 CC2 Projects 
+
 1H , FARRO FREDERICK ANTHONY A.
+
 TITLE: "2D ODD and EVEN TABLE" 
 
   
@@ -379,10 +402,13 @@ public class MultiArray {
              
              
 CC2 Projects 
+
 1H , FARRO FREDERICK ANTHONY A.
+
 TITLE: "FIBONACCI"
   
   
+
 package fibonacci;
 
 import java.io.*;
@@ -441,10 +467,14 @@ public class Fibonacci {
 }
              
 CC2 Projects 
+
 1H , FARRO FREDERICK ANTHONY A.
+
 TITLE: "RECURSIVE SORTING"
   
- import java.util.Arrays; 
+
+
+import java.util.Arrays; 
   
 public class JavaApplication  
 { 
@@ -484,9 +514,12 @@ public class JavaApplication
 } 
              
              
+
 CC2 Projects 
+
 1H , FARRO FREDERICK ANTHONY A.
-  TITLE: "Fibonacci Factorial"
+
+TITLE: "Fibonacci Factorial"
   
   
   
