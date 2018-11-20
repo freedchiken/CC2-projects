@@ -596,7 +596,7 @@ public class Final {
         for(int i = 0; i <ind; i++){
             System.out.print("\t"+arr[i]+ "\t");
         }
-        System.out.print("\nFIBUNACCI:");
+        System.out.print("\nFIBONACCI:");
         for(int i = 0; i< ind; i++){
             System.out.print("\t"+ fib(arr[i])+"\t");
         }
